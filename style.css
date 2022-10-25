@@ -1,0 +1,75 @@
+header{
+  background-color: yellow;
+  width: 100%;
+  height: 175px;
+}
+
+footer{
+  background-color: red;
+  width: 100%;
+  height: 175px;
+}
+
+#k1r1{
+  background-color: DeepSkyBlue;
+ }
+
+#k1r2{
+  background-color: red;
+}
+
+#k1r3{
+  background-color: yellow;
+}
+
+#k1r4{
+  background-color: #9999FF;
+}
+
+#k2r1{
+  background-color: rgb(167,185,89);
+}
+
+#k2r2{
+  background-color: teal;
+}
+
+#k2r3{
+  background-color: rgb(50%,20%,30%);
+}
+
+#k2r4{
+  background-color: purple;
+}
+
+#k3r1{
+  background-color: #EF023A;
+}
+
+#k3r2{
+  background-color: #F08080;
+}
+
+#k3r3{
+  background-color: DarkGoldenRod;
+}
+
+#k3r4{
+  background-color: snow;
+}
+
+#k4r1{
+  background-color: rgb(255,143,123);
+}
+
+#k4r2{
+  background-color: #334455;
+}
+
+#k4r3{
+  background-color: #123456;
+}
+
+#k4r4{
+  background-color: rgb(255,155,0);
+}
